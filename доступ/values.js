@@ -3,9 +3,9 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "14.09.2003"; // Дата рождения
-var fullname = "Околіта Руслан Сергійович" // ФИО
-var name = "Руслан" // Имя
+var birthdate = "20.05.2003"; // Дата рождения
+var fullname = "Завіруха Юрій Григорович" // ФИО
+var name = "Юрій" // Имя
 
 // Паспорт
 var passport_id = "970785096" // Номер паспорта
