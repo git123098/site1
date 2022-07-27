@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "20.05.2003"; // Дата рождения
-var fullname = "Завіруха Юрій Григорович" // ФИО
+var fullname = "Чуб Юрій Григорович" // ФИО
 var name = "Юрій" // Имя
 
 // Паспорт
